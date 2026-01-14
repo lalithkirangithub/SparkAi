@@ -3,7 +3,7 @@ SparkAI - Full Stack AI SaaS App
 SparkAI is a complete full-stack AI-powered SaaS application built with the PERN stack (PostgreSQL, Express.js, React.js, Node.js). It offers premium AI tools for content generation, image editing, and resume analysis, with user authentication and subscription billing.
 ​
 ​
-🌟 Key Features
+ Key Features
 User Authentication: Secure sign-up, sign-in, and profile management using Clerk.​
 Subscription Billing: Free and premium plans; premium unlocks advanced AI features via Clerk billing.​
 Dashboard: View creation history, manage plans, and access tools.
@@ -18,7 +18,7 @@ Dashboard: View creation history, manage plans, and access tools.
 -Object Remover: Describe and remove objects from images.
 -Resume Analyzer: Upload resume for detailed AI analysis (strengths, weaknesses, improvements).
 ​​
-🛠 ---Tech Stack-
+ ---Tech Stack-
 
 | Component  | Technologies                                                                      |
 | ---------- | --------------------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ Dashboard: View creation history, manage plans, and access tools.
 | Deployment | Vercel (frontend/backend)                                                         |
 
 
-🚀 Quick Start
+-- Quick Start
 Clone the repo and install dependencies:
 
 npm install
